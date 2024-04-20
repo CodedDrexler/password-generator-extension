@@ -1,0 +1,24 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-size: 110%;
+}
+
+.container{
+  font-family: sans-serif;
+  background-color: rgb(231, 237, 225);
+  padding: 2rem 4rem;
+}
+
+h1{
+  color: rgb(32, 126, 36);
+  margin-bottom: 10px;
+}
+p{
+  color: rgb(79, 80, 80);
+}
+
+button{
+  margin-bottom: 10px;
+}
